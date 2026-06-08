@@ -1,0 +1,24 @@
+{
+    "id": "youtube.player.mywidget",
+    "name": "YouTube Player 위젯",
+    "description": "YouTube 영상을 재생하는 위젯",
+    "version": "1.0.0",
+    "newInstancePrefix": "YoutubePlayer",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "youtube-player-mywidget",
+            "url": "https://hottoek3.github.io/youtube-widget/main.js",
+            "integrity": "sha256-...",
+            "ignoreIntegrity": true
+        }
+    ],
+    "properties": {
+        "videoId": {
+            "type": "string",
+            "default": "dQw4w9WgXcQ"
+        }
+    },
+    "methods": {},
+    "events": {}
+}
