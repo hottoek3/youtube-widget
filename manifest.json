@@ -16,7 +16,7 @@
     "properties": {
         "videoId": {
             "type": "string",
-            "default": "dQw4w9WgXcQ"
+            "default": "YuzvTrSpWVo"
         }
     },
     "methods": {},
